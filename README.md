@@ -14,7 +14,12 @@ ssi-infrastructure
 
 [//]: # (addons)
 
-This part will be replaced when running the oca-gen-addons-table script from OCA/maintainer-tools.
+Available addons
+----------------
+addon | version | maintainers | summary
+--- | --- | --- | ---
+[ssi_infrastructure](ssi_infrastructure/) | 14.0.1.0.0 |  | Infrastructure
+[ssi_infrastructure_server](ssi_infrastructure_server/) | 14.0.1.0.0 |  | Server Infrastructure
 
 [//]: # (end addons)
 
